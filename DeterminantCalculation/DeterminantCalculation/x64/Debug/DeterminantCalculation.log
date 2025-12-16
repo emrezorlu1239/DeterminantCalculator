@@ -1,0 +1,4 @@
+﻿  DeterminantCalculation.cpp
+C:\Users\emrez\source\repos\DeterminantCalculation\DeterminantCalculation\DeterminantCalculation.cpp(28,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\DeterminantCalculation\DeterminantCalculation\DeterminantCalculation.cpp(51,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  DeterminantCalculation.vcxproj -> C:\Users\emrez\source\repos\DeterminantCalculation\x64\Debug\DeterminantCalculation.exe
