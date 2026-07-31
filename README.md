@@ -1,28 +1,24 @@
 # Determinant Calculator 🧮
 
-Bu proje, matrislerin determinantını hesaplayan, C# tabanlı bir masaüstü uygulamasıdır. Kullanıcının girdiği matris değerleri üzerinden matematiksel işlemleri otomatik gerçekleştirir.
+This project is a dedicated desktop application built with C# designed to calculate the determinant of matrices quickly and accurately. It automates complex mathematical operations and matrix transformations behind the scenes, allowing users to simply input their matrix values through an intuitive interface and instantly receive the mathematically correct determinant without manual computation.
 
 ## Tech Stack 🔧
 
 * C#
 * .NET Framework
 
-## Kurulum ve Çalıştırma ▶️
+## Installation and Usage ▶️
 
-1. Projeyi bilgisayarınıza klonlayın.
-2. Visual Studio ile `DeterminantCalculation.sln` veya proje dosyasını açın.
-3. F5 tuşuna basarak (Start Debugging) uygulamayı derleyip çalıştırın.
+1. Clone the repository to your computer.
+2. Open the project file or the `DeterminantCalculation.sln` solution file using Visual Studio.
+3. Press F5 (or click Start Debugging) to build the solution and run the application interface.
 
-## Ekran Görüntüleri 📺
+## Features 🎯
 
-![Hesaplayıcı](demo.png)
+* Dynamic matrix size selection
+* High-speed and accurate determinant calculations
+* Built-in error handling and input validation to prevent crashes
 
-## Özellikler 🎯
+## Project Structure 📦
 
-* Matris boyutunu seçebilme
-* Hızlı determinant hesaplama
-* Hata yakalama ve doğrulama
-
-## Proje Yapısı 📦
-
-* `DeterminantCalculation/` - Uygulama kaynak kodları
+* `DeterminantCalculation/` - Application source code and solution files
